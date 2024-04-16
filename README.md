@@ -1,2 +1,2 @@
-# New-Repo
-Test repo
+# GameChat meme coin
+GameChat coin assets
